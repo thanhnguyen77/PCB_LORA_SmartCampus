@@ -1,0 +1,50 @@
+Added Component: Designator=C?(JP9-D1T)
+Added Component: Designator=C?(JP5-C1T)
+Added Component: Designator=C?(JP4-C1T)
+Added Component: Designator=C?(JP4-C1T)
+Added Component: Designator=C?(JP4-C1T)
+Added Component: Designator=Q?(TO220-123)
+Added Component: Designator=R?(RES-1/8WD)
+Added Pin To Net: NetName=5V Pin=C?-1
+Added Pin To Net: NetName=5V Pin=C?-1
+Added Pin To Net: NetName=5V Pin=C?-5
+Added Pin To Net: NetName=5V Pin=Q?-3
+Added Net: Name=5V
+Added Pin To Net: NetName=CO Pin=C?-1
+Added Pin To Net: NetName=CO Pin=C?-8
+Added Net: Name=CO
+Added Pin To Net: NetName=D0 Pin=C?-3
+Added Pin To Net: NetName=D0 Pin=R?-2
+Added Net: Name=D0
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-1
+Added Net: Name=NetQ?_1
+Added Pin To Net: NetName=NH3 Pin=C?-2
+Added Net: Name=NH3
+Added Pin To Net: NetName=NO2 Pin=C?-3
+Added Pin To Net: NetName=NO2 Pin=C?-9
+Added Net: Name=NO2
+Added Pin To Net: NetName=O3 Pin=C?-4
+Added Pin To Net: NetName=O3 Pin=C?-7
+Added Net: Name=O3
+Added Pin To Net: NetName=RX Pin=C?-3
+Added Pin To Net: NetName=RX Pin=C?-4
+Added Net: Name=RX
+Added Pin To Net: NetName=SO2 Pin=C?-4
+Added Pin To Net: NetName=SO2 Pin=C?-6
+Added Net: Name=SO2
+Added Pin To Net: NetName=TX Pin=C?-4
+Added Pin To Net: NetName=TX Pin=C?-5
+Added Net: Name=TX
+Added Pin To Net: NetName=VCC Pin=C?-1
+Added Pin To Net: NetName=VCC Pin=C?-1
+Added Pin To Net: NetName=VCC Pin=Q?-2
+Added Net: Name=VCC
+Added Class: Name=Sheet3
+Added Room: Name=Sheet3

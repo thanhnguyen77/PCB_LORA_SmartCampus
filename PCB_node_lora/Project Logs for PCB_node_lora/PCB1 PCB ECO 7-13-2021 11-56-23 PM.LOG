@@ -1,0 +1,14 @@
+Added Component: Designator=U1(MODULE_RA-02_LORA)
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=3V Pin=U1-3
+Added Pin To Net: NetName=RS Pin=U1-4
+Added Pin To Net: NetName=DI0 Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=SCK Pin=U1-12
+Added Pin To Net: NetName=MISO Pin=U1-13
+Added Pin To Net: NetName=MOSI Pin=U1-14
+Added Pin To Net: NetName=NSS Pin=U1-15
+Added Pin To Net: NetName=GND Pin=U1-16
+Added Member To Class: ClassName=Sheet1 Member=Component U1 RA-02_LORA
+Added Room: Name=Sheet1

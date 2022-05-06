@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=D4 Pin=U2-1
+Removed Pin From Net: NetName=D3 Pin=U2-5
+Added Component: Designator=C3(JP2-D2T)
+Added Pin To Net: NetName=D4 Pin=C3-3
+Added Pin To Net: NetName=D3 Pin=C3-4
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=U2-5
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=U2-1
+Added Net: Name=NetC3_2
+Added Member To Class: ClassName=Sheet2 Member=Component C3 JP2x2
+Added Room: Name=Sheet2

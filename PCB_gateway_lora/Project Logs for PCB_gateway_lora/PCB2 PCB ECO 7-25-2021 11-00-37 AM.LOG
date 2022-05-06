@@ -1,0 +1,17 @@
+Added Component: Designator=C1(JP4-D2T)
+Added Pin To Net: NetName=TX Pin=C1-2
+Added Pin To Net: NetName=D3 Pin=C1-3
+Added Pin To Net: NetName=GND Pin=C1-5
+Added Pin To Net: NetName=D4 Pin=C1-6
+Added Pin To Net: NetName=RX Pin=C1-7
+Added Pin To Net: NetName=GPIO0 Pin=C1-4
+Added Pin To Net: NetName=GPIO0 Pin=U2-6
+Added Net: Name=GPIO0
+Added Pin To Net: NetName=NetArduino1_RX0 Pin=Arduino1-RX0
+Added Pin To Net: NetName=NetArduino1_RX0 Pin=C1-8
+Added Net: Name=NetArduino1_RX0
+Added Pin To Net: NetName=NetArduino1_TX1 Pin=Arduino1-TX1
+Added Pin To Net: NetName=NetArduino1_TX1 Pin=C1-1
+Added Net: Name=NetArduino1_TX1
+Added Member To Class: ClassName=Sheet2 Member=Component C1 JP4x2
+Added Room: Name=Sheet2

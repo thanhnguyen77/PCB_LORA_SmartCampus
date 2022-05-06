@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=5V Pin=Q1-3
+Removed Pin From Net: NetName=5V Pin=R2-1
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Added Component: Designator=LED1(LED-5-BLUE)
+Added Component: Designator=R1(RES-1/8WD)
+Added Pin To Net: NetName=5V Pin=C1-1
+Added Pin To Net: NetName=5V Pin=C5-1
+Added Pin To Net: NetName=5V Pin=LED1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=R1-2
+Change Net Name : Old Net Name=5V New Net Name=VCC
+Change Net Name : Old Net Name=GND New Net Name=NetC2_2
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R1-1
+Added Net: Name=NetLED1_2
+Added Member To Class: ClassName=Sheet3 Member=Component LED1 LED
+Added Member To Class: ClassName=Sheet3 Member=Component R3 Res
+Added Room: Name=Sheet3

@@ -1,0 +1,11 @@
+Added Component: Designator=C3(MQ2-MODULE)
+Added Component: Designator=C4(MQ2-MODULE)
+Added Pin To Net: NetName=SO2 Pin=C3-1
+Added Pin To Net: NetName=NetC3_3 Pin=C3-3
+Added Pin To Net: NetName=VCC Pin=C3-4
+Added Pin To Net: NetName=O3 Pin=C4-1
+Added Pin To Net: NetName=NetC3_3 Pin=C4-3
+Added Pin To Net: NetName=VCC Pin=C4-4
+Added Member To Class: ClassName=Sheet1 Member=Component C3 MQ135-MOD
+Added Member To Class: ClassName=Sheet1 Member=Component C4 MQ136-MOD
+Added Room: Name=Sheet1

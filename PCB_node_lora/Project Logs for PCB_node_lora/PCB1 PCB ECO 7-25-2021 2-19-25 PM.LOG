@@ -1,0 +1,5 @@
+Added Component: Designator=bat ?(18650)
+Added Pin To Net: NetName=VCC Pin=bat ?-1
+Added Pin To Net: NetName=GND Pin=bat ?-2
+Added Member To Class: ClassName=Sheet1 Member=Component bat ? 18650
+Added Room: Name=Sheet1

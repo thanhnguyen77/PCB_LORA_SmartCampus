@@ -1,0 +1,83 @@
+Added Component: Designator=Arduino1(Arduino Nano)
+Added Component: Designator=C1(HDR2)
+Added Component: Designator=C2(JP8-C1C)
+Added Component: Designator=C3(JP8-C1C)
+Added Component: Designator=U1(MODULE_RA-02_LORA)
+Added Pin To Net: NetName=3V Pin=Arduino1-3V3
+Added Pin To Net: NetName=3V Pin=U1-3
+Added Net: Name=3V
+Added Pin To Net: NetName=A0 Pin=Arduino1-A0
+Added Pin To Net: NetName=A0 Pin=C2-1
+Added Net: Name=A0
+Added Pin To Net: NetName=A1 Pin=Arduino1-A1
+Added Pin To Net: NetName=A1 Pin=C2-2
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=Arduino1-A2
+Added Pin To Net: NetName=A2 Pin=C2-3
+Added Net: Name=A2
+Added Pin To Net: NetName=A3 Pin=Arduino1-A3
+Added Pin To Net: NetName=A3 Pin=C2-4
+Added Net: Name=A3
+Added Pin To Net: NetName=A4 Pin=Arduino1-A4
+Added Pin To Net: NetName=A4 Pin=C2-5
+Added Net: Name=A4
+Added Pin To Net: NetName=A5 Pin=Arduino1-A5
+Added Pin To Net: NetName=A5 Pin=C2-6
+Added Net: Name=A5
+Added Pin To Net: NetName=A6 Pin=Arduino1-A6
+Added Pin To Net: NetName=A6 Pin=C2-7
+Added Net: Name=A6
+Added Pin To Net: NetName=A7 Pin=Arduino1-A7
+Added Pin To Net: NetName=A7 Pin=C2-8
+Added Net: Name=A7
+Added Pin To Net: NetName=D3 Pin=Arduino1-D3
+Added Pin To Net: NetName=D3 Pin=C3-8
+Added Net: Name=D3
+Added Pin To Net: NetName=D4 Pin=Arduino1-D4
+Added Pin To Net: NetName=D4 Pin=C3-7
+Added Net: Name=D4
+Added Pin To Net: NetName=D5 Pin=Arduino1-D5
+Added Pin To Net: NetName=D5 Pin=C3-6
+Added Net: Name=D5
+Added Pin To Net: NetName=D6 Pin=Arduino1-D6
+Added Pin To Net: NetName=D6 Pin=C3-5
+Added Net: Name=D6
+Added Pin To Net: NetName=D7 Pin=Arduino1-D7
+Added Pin To Net: NetName=D7 Pin=C3-4
+Added Net: Name=D7
+Added Pin To Net: NetName=D8 Pin=Arduino1-D8
+Added Pin To Net: NetName=D8 Pin=C3-3
+Added Net: Name=D8
+Added Pin To Net: NetName=DI0 Pin=Arduino1-D2
+Added Pin To Net: NetName=DI0 Pin=U1-5
+Added Net: Name=DI0
+Added Pin To Net: NetName=GND Pin=Arduino1-GND
+Added Pin To Net: NetName=GND Pin=Arduino1-GND
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U1-16
+Added Net: Name=GND
+Added Pin To Net: NetName=MISO Pin=Arduino1-D12
+Added Pin To Net: NetName=MISO Pin=U1-13
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=Arduino1-D11
+Added Pin To Net: NetName=MOSI Pin=U1-14
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NSS Pin=Arduino1-D10
+Added Pin To Net: NetName=NSS Pin=U1-15
+Added Net: Name=NSS
+Added Pin To Net: NetName=RS Pin=Arduino1-D9
+Added Pin To Net: NetName=RS Pin=U1-4
+Added Net: Name=RS
+Added Pin To Net: NetName=SCK Pin=Arduino1-D13
+Added Pin To Net: NetName=SCK Pin=U1-12
+Added Net: Name=SCK
+Added Pin To Net: NetName=VCC Pin=Arduino1-5V
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Net: Name=VCC
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
